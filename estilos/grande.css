@@ -1,0 +1,15 @@
+@charset "UTF-8";
+main {
+    width: 900px;
+    display: flex;
+    border-radius: 10px 40px 20px 10px;
+}
+#um {
+    width: 45%;
+    height: 400px;
+    border-radius: 10px 0px 0px 10px;
+}
+#dois {
+    width: 55%;
+    height: 400px;
+}

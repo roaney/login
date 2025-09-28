@@ -1,0 +1,7 @@
+@charset "UTF-8";
+main {
+    width: 80%;
+}
+#um, #dois {
+    display: inline-block;
+}

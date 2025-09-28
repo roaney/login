@@ -16,7 +16,7 @@ main {
     width: 350px;
     margin: auto;
     background-color: rgb(150, 150, 150);
-    border-radius: 20px;
+    border-radius: 10px 40px 40px 10px;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -28,7 +28,7 @@ main {
     background-image: url(../chicago.jpg);
     background-size: auto;
     background-position: left top;
-    border-radius: 20px 20px 0px 0px;
+    border-radius: 10px 40px 0px 0px;
 }
 #dois {
     height: 350px;

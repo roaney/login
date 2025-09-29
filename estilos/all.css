@@ -22,13 +22,13 @@ main {
     top: 50%;
     transform: translate(-50%, -50%);
     box-shadow: 0px 0px 20px 0px black;
+    overflow: hidden;
 }
 #um {
     height: 200px;
     background-image: url(../chicago.jpg);
     background-size: auto;
     background-position: left top;
-    border-radius: 10px 40px 0px 0px;
 }
 #dois {
     height: 350px;

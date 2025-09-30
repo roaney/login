@@ -52,6 +52,9 @@ p {
     margin-bottom: 5px;
     padding: 5px;
 }
+span {
+    transform: translateY(5px);
+}
 .black {
     background-color: rgb(25, 25, 25);
     color: white;

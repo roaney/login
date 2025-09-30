@@ -62,7 +62,7 @@ span {
     border-radius: 5px;
     border: 1px solid black;
     height: 35px;
-    width: 90%;
+    width: calc(100% - 30px);
 }
 #tres {
     background-color: black;
